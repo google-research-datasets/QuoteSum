@@ -1,3 +1,8 @@
+"""
+Copyright 2023 Google LLC.
+SPDX-License-Identifier: Apache-2.0
+"""
+
 import numpy as np
 import string
 from rouge_score import rouge_scorer, scoring
